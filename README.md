@@ -24,7 +24,7 @@ $ics = new ICS('//Company//Product//EN', array(
 	'description' => $descriptionString
 ));
 ```
-If you want you can contruct as required like:
+If you want you can construct as required like:
 
 ```php
 $ics = new ICS('//Company//Product//EN');
